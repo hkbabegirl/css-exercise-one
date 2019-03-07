@@ -3,7 +3,7 @@ body {
 }
 
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
@@ -32,15 +32,15 @@ h3 {
 .element {
   background-color: green;
   height: 100px;
-  margin 0;
+  margin: 0;
   width: 100%;
 }
 
 /* .element2 {
-  background-color: black;
+  background-color: orange;
   height: 100px;
   margin: 0;
   width: 100%
-} */  Change the color of the last 3 div elements to black
+} */  Change the color of the last 3 div elements to orange
 
 /*  */fixed all broken CSS on the page
