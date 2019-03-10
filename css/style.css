@@ -23,7 +23,7 @@ h1 {
 
 .example, h3 {
   padding-top: 30px;
-  text-align: center
+  text-align: center;
 }
 
 h3 {
@@ -41,7 +41,7 @@ h3 {
   background-color: orange;
   height: 100px;
   margin: 30px 50px;
-  width: 100%
+  width: 100%;
 }
 
 /* Change the color of the last 3 div elements (element2) to orange */
